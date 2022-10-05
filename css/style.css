@@ -122,7 +122,7 @@ body {
     position: absolute;
     font-family: 'Poppins';
     font-weight: 800;
-    font-size: 48px;
+    font-size: 36px;
     margin-top: 530px;
     margin-left: 450px;
 }
@@ -301,6 +301,7 @@ body {
     display: flex;
 
 }
+
 .softskills_row {
     line-height: 28px;
     display: flex;
@@ -311,6 +312,7 @@ body {
     margin-left: 50px;
     margin-top: 10px;
 }
+
 .icons__softskills {
     margin-left: 50px;
     margin-top: 10px;
